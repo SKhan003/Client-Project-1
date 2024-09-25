@@ -51,7 +51,6 @@ function gsapScrolling(){
             start:'top 60%',
             end:'bottom 30%',
             scrub:true,
-            markers:true
         }
     })
     gsap.to('.sliderText',{
